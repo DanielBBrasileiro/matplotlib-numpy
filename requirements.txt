@@ -1,0 +1,4 @@
+numpy
+matplotlib
+pandas
+openpyxl # Para compatibilidade com o arquivo original e leitura de Excel
